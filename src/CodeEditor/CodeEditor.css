@@ -1,0 +1,22 @@
+.selectors-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 1rem;
+}
+
+.editor-container {
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #1E1E1E;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 1rem;
+}
