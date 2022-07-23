@@ -10,7 +10,6 @@ export default function CodeEditorWindow({ language, code, onCodeChange }) {
     const [value, setValue] = useState(code || '');
 
     const handleEditorChange = (newValue) => {
-        console.log(newValue)
         setValue(newValue);
         onCodeChange(newValue)
     }
