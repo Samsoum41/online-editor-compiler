@@ -1,0 +1,25 @@
+.success-output {
+    color: green;
+    text-align: left;
+}
+
+.failed-output {
+    color: red;
+    text-align: left;
+}
+
+.output-details {
+    background-color: black;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+label {
+    color: white;
+}
+
+.output-details-performance {
+    display: flex;
+    flex-direction: row;
+}

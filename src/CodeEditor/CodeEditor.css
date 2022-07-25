@@ -1,0 +1,43 @@
+.selectors-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 1rem;
+}
+
+.run-button-processing {
+
+}
+
+.run-button {
+    padding: .5rem 1rem;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.output-container {
+    width: 70%;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #1E1E1E;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 1rem;
+}
